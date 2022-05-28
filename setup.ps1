@@ -1,7 +1,7 @@
 $programs = @(
   "Docker.DockerDesktop",
   "Git.Git",
-  "Microsoft.VisualStudioCode",
+  "Microsoft.VisualStudioCode"
 );
 
 Foreach ($prg in $programs){
